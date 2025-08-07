@@ -1,0 +1,10 @@
+{
+  "build": {
+    "env": {
+      "PYTHONUNBUFFERED": "TRUE"
+    }
+  },
+  "deploy": {
+    "startCommand": "python main.py"
+  }
+}
